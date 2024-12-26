@@ -2,6 +2,9 @@
 
 A server application integrating Cloudflare AI and Redis for conversational AI sessions. This application allows users to interact with an AI model through session-based conversations, where the chat history is stored temporarily in Redis with a TTL (time-to-live) of 3 hours.
 
+![image](https://github.com/user-attachments/assets/bf0f67ad-8859-42db-845d-2fa93fa1b3b4)
+
+
 ## Features
 
 - **Session-based Chat History**: Chat history is stored in Redis and linked to unique sessions.

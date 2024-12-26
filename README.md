@@ -115,10 +115,6 @@ The application uses the following npm packages:
 
 This project is licensed under the **ISC License**.
 
-## Author
-
-[Your Name]
-
 ## Contribution
 
 Feel free to fork this repository and submit pull requests to contribute to the project.
